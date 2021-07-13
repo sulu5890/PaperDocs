@@ -21,7 +21,7 @@ To update, please find the appropriate header for you in the table of contents.
 
 .. toctree::
 
-    index
+    self
 
 .. We don't want text to appear right underneath images: this is ugly.
    Licensed under CC BY-SA 4.0, found 2021-06-05 on: https://stackoverflow.com/a/54412348
