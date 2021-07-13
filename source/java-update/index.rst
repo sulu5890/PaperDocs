@@ -21,7 +21,7 @@ To update, please find the appropriate header for you in the table of contents.
 
 .. toctree::
 
-    self
+    index
 
 .. We don't want text to appear right underneath images: this is ugly.
    Licensed under CC BY-SA 4.0, found 2021-06-05 on: https://stackoverflow.com/a/54412348
@@ -326,7 +326,7 @@ Now go to your ``Path`` variable in the ``System variables`` section in the
 If there is already a ``%JAVA_HOME%\bin`` entry in the list, skip this step.
 Otherwise, press the ``New`` button at the top and enter ``%JAVA_HOME%\bin``:
 
-.. image:: java-update-assets/windows-add-to-path.png
+.. image:: java-update-assets/window-add-to-path.png
 
 |br|
 

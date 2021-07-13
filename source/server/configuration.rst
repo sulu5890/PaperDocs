@@ -15,7 +15,7 @@ their respective documentation pages.
 
 * `Spigot Configuration (spigot.yml) <https://www.spigotmc.org/wiki/spigot-configuration/>`_
 
-.. warning::
+.. warn::
     Configuration values change frequently at times. It is possible for the
     information here to be incomplete. If you cannot find what you're looking for
     or think something may be wrong, :doc:`../about/contact`
@@ -146,7 +146,7 @@ velocity-support
 * enabled
     - **default**: false
     - **description**: Set this to true if this server is behind a `Velocity
-      <https://www.velocitypowered.com/>`_ proxy. If this is true, do not enable
+      <https://www.velocitypowered.com/`_ proxy. If this is true, do not enable
       the bungeecord setting in spigot.yml.
 
 * online-mode
